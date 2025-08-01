@@ -29,8 +29,8 @@ Site pessoal para apresentar meus projetos, habilidades e contato profissional.
 
 ### 📊 GitHub Stats
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=toshimizuguchi&show_icons=true&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=toshimizuguchi&layout=compact&theme=radical)
 
 ---
 
