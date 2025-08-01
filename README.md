@@ -7,9 +7,9 @@ Sou um desenvolvedor com foco em aplicações web modernas, apaixonado por tecno
 
 ### 💼 Projetos em destaque
 
-🛒 **[Sun PDV](https://github.com/toshimizuguchi/sun-pdv)**  
+🛒 **[Sun PDV](https://github.com/toshimizuguchi/Site-SunPDV-TCC)** 
 Sistema de ponto de venda moderno, com interface limpa, geração de relatórios e gestão de produtos.  
-Tecnologias: **React + Vite + CSS Puro**
+Tecnologias: **React + Vite + CSS Puro + Sass**
 
 📁 
 Site pessoal para apresentar meus projetos, habilidades e contato profissional.
